@@ -13,21 +13,13 @@
 
 - ❤️ Showcase adoptable dogs and cats
 - 📷 Pet cards with images, names, and short descriptions
-- 📱 Fully responsive for mobile and desktop
-- 🧭 Easy-to-navigate layout
-- ✨ Clean hover effects and styling
-
 ---
 
-## 🖼️ Preview
 
-> *(Add a screenshot or link to live site here)*
-
----
 
 ## 🏗️ Folder Structure
 
-```
+
 
 pet-adoption/
 ├── index.html         # Main webpage
@@ -35,7 +27,6 @@ pet-adoption/
 ├── images/            # Dog and cat pictures (local or from the web)
 └── README.md          # Project documentation
 
-````
 
 ---
 
@@ -83,15 +74,7 @@ pet-adoption/
 
 **Manmeet Singh**
 🐾 Web Design & Frontend Enthusiast
-📧 \[Optional: Add your email or portfolio]
 
----
-
-## 📃 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
 
 ## ⭐️ Show Some Love
 
